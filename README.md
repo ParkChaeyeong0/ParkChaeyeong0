@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53A7D8&height=300&section=header&text=Chaeyeong%20Park&fontSize=70&fontColor=FFFFFF)
 
-🛠️Tool & Skills🛠️
+🛠️Basic Stack🛠️
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
